@@ -1,1 +1,3 @@
-# Homework-6
+# Homework 6
+
+CS 453 - Introduction to Python
