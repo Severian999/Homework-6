@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct  2 18:23:34 2017
-
 @author: Don Gass
 """
 
